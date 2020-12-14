@@ -1,0 +1,30 @@
+{
+    "frame": 1,
+    "projects": [{
+            "name": "2020.10.5",
+            "text": "       Generative Visuals\n\nThe first project for p5\nCommanded basic drawing skills",
+            "instruction": "Welcome to Jyoti & Cara's CCLab journey\n\nClick anywhere for BGM\nPlay around with mouse\nMove mouse to the right to explore"
+
+        },
+
+        {
+            "name": "2020.11.1",
+            "text": "       Interactive Design\n\nOur first group project: Hit the Virus\n16-days Working\nNights worth it",
+            "instruction": "Press the space to hit the virus"
+
+        },
+        {
+            "name": "2020.11.21 ",
+            "text": "       Data Visulization\n\nVisualize the JSON data\nA new world for Javascript",
+            "instruction": "Hover and see our journey\nClick the last ball to enter the final page"
+
+        },
+        {
+            "name": "2020.12.14",
+            "text": "       Creative Coding\n\nNow we almost arrive\nClick,\nAnd see you there. ",
+            "instruction": "Here we are now, connected.\nThank you all the way long.\n\nBGM: Only Path."
+
+        }
+
+    ]
+}
